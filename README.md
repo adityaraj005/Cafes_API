@@ -50,8 +50,9 @@ The `Cafe` table includes the following columns:
 - `can_take_calls`: Boolean, not nullable.
 - `coffee_price`: String, nullable.
 
-## Usage
+## Key Learnings
 
-1. Install the required packages using `pip install -r requirements.txt`.
-2. Run the Flask application using `python app.py`.
-3. Use Postman or any other API client to interact with the endpoints.
+- **API Design and Development**: Gained hands-on experience in designing and developing RESTful APIs using Flask and SQLAlchemy.
+- **Database Management**: Learned to create and manage a database schema, ensuring efficient data storage and retrieval.
+- **Security Implementation**: Implemented API key validation to secure sensitive operations, enhancing the overall security of the application.
+- **API Testing**: Utilized Postman for thorough testing and documentation of API endpoints, ensuring reliability and functionality.
